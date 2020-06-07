@@ -1,4 +1,4 @@
-X0000
+X0010
 Które z poni¿szych zdañ jest fa³szywe?
 Warstwa transportowa wykrywa i usuwa duplikaty przesy³ane protoko³em TCP.
 UDP to transmisja bezpo³¹czeniowa.

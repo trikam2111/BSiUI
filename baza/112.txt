@@ -1,4 +1,4 @@
-X0000
+X0100
 Poprawne funkcjonowanie serwera www.pwr.wroc.pl nie zale¿y w sposób poœredni od bezpieczeñstwa serwera obs³uguj¹cego:
 DNS domeny . (kropka)
 DNS domeny ict.pwr.wroc.pl

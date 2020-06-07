@@ -1,4 +1,4 @@
-X0000
+X1000
 Jeœli w sieci lokalnej stosujemy maskê 255.255.255.128, to który z poni¿yszych adresów mo¿e byæ celem ataków typu Smurf z sieci zewnêtrznych?
 156.17.1.127
 156.17.1.0

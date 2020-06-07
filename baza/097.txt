@@ -1,4 +1,4 @@
-X0000
+X0100
 Które zdania dotycz¹ce maskarady adresów jest fa³szywe
 Pozwala na dostêp do internetu komputerom korzystaj¹cym z adresów prywatnych (RFC1918)
 Mo¿e powodowaæ zrywanie ma³o aktywnych po³¹czeñ sieciowych

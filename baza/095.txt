@@ -1,4 +1,4 @@
-X0000
+X0100
 Przy prawach dostêpu do pliku widocznych jako -rwxr-sr-- 1024 Jun 9 17:27 wilq u¿ytkownik nale¿acy do tej samej grupy co plik, ma prawo:
 do czytania i pisania pliku
 do czytania i wykonania pliku

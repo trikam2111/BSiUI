@@ -1,4 +1,4 @@
-X0000
+X1000
 W pliku /etc/ftpusers znajduje siê lista u¿ytkowników systemu:
 dla których dostêp do lokalnego serwera FTP jest zabroniony
 którym wolno korzystaæ z programu ftp

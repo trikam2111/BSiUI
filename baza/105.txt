@@ -1,4 +1,4 @@
-X0000
+X0100
 Lista wszystkich u¿ytkowników lokalnego systemu UNIX znajdujê siê w pliku
 /etc/hosts
 /etc/passwd

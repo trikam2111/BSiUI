@@ -1,4 +1,4 @@
-X0000
+X0100
 W protokole FTP has³o u¿ytkownika przesy³ane jest:
 kodem Morse'a
 tekstem jawnym

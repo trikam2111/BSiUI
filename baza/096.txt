@@ -1,4 +1,4 @@
-X0000
+X0100
 Najpopularniejszy serwer DNS to program:
 pop3d
 bind

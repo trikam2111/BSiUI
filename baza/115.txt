@@ -1,4 +1,4 @@
-X0000
+X0001
 Co nale¿y zablokowaæ na wszystkich routerach, by uniemo¿liwiæ lub ograniczyæ zasiêg ataków SMURF
 forwardowanie pakietów ICMP
 broadcasty UDP

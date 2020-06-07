@@ -1,4 +1,4 @@
-X0000
+X1000
 Zak³adamy, ¿e u234, g456 oznaczaj¹ odpowiednio u¿ytkownika/grupê o takim numerze uid/gid. Proces uruchomiony z pid=123, uid=404, euid=421, egid=300 mo¿e przeczytaæ zawartoœæ pliku:
 -r-x--x--x u421 g300 .bashrc
 -rw------- u404 g421 .forward

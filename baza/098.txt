@@ -1,4 +1,4 @@
-X0000
+X0001
 Zadaniem protoko³u IDENT jest:
 t³umaczenie numerów us³ug na ich nazwy
 autoryzacja dostêpu do wiêkszoœci us³ug sieciowych

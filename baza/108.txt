@@ -1,4 +1,4 @@
-X0000
+X0010
 Dostarczaniem poczty do skrzynek poszczególnych u¿ytkowników zajmuj¹ siê programy
 MTA
 MUA

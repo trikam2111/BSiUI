@@ -1,4 +1,4 @@
-X0000
+X0010
 Jak d³uga jest standardowa maska sieciowa w adresie klasy C?
 16 bitów
 27 bitów

@@ -1,4 +1,4 @@
-X0000
+X1000
 Jakiej wielkoœci s¹ stosowane obecnie adresy sieciowe?
 ethernet: 48 bitów, IPv4: 32 bity
 ethernet: 64 bity, IPv6: 128 bitów
