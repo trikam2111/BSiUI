@@ -1,0 +1,6 @@
+X0010
+Co nie grozi temu programowi? int main(argc, argv[])  { int buf, i; for(i = 0; i <= 20; i++)  { if( !(buf[i]='\0')) fork(); }
+przepe³nienie bufora
+niezainicjowanie zmiennych
+nieskoñczona pêtla
+DoS

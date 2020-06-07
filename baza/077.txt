@@ -1,0 +1,6 @@
+X1000
+Który z wymieninych adresów móg³by zostaæ (??) na karcie sieciowej serwera, która ma byæ widziana(??) bezpoœrednio z sieci internet?
+172.168.30.33
+127.0.0.1
+192.168.80.33
+172.17.1.20

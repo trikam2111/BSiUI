@@ -1,0 +1,6 @@
+X1000
+Które has³o mo¿na najszybciej z³amaæ metod¹ si³ow¹ je¿eli wiemy:
+ze jest to s³owo jêzyka polskiego
+4 znaki alfabetu duze/male
+8 cyfr
+7 ma³ych liter

@@ -1,0 +1,6 @@
+X0000
+Któr¹ z poni¿szych czynnoœci nale¿y zakwalifikowaæ jako sniffing?
+wysy³anie pakietów SYN i ignorowanie odpowiedzi na nie
+fa³szowanie pakietów
+pods³uchiwanie pakietów w sieci
+uruchamianie du¿ej liczby procesów maj¹cych zadanie przeci¹¿yæ komputer

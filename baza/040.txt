@@ -1,0 +1,3 @@
+X1
+Jak zapobiegaæ atakom typu SMURF
+Skonfigurowaæ router tak aby nie przyjmowaæ pakietów ICMP

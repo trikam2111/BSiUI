@@ -1,0 +1,6 @@
+X0000
+Które z poni¿szych zdañ jest fa³szywe?
+Warstwa transportowa wykrywa i usuwa duplikaty przesy³ane protoko³em TCP.
+UDP to transmisja bezpo³¹czeniowa.
+Transmisja UDP zachowuje kolejnoœæ przesy³anych komunikatów.
+W transmisji TCP aplikacja nie otrzymuje pojedynczych komunikatów lecz ci¹g³y strumieñ danych.

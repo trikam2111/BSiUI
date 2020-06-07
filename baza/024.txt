@@ -1,0 +1,5 @@
+X100
+POP 3 jak zakodowane jest has³o?
+jawnie
+niejawnie
+kodem morse'a

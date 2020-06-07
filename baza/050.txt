@@ -1,0 +1,5 @@
+X010
+IMCP to po³¹cznie?
+strumieniowe
+datagramowe
+SOCK_RAW

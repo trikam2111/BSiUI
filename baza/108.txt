@@ -1,0 +1,6 @@
+X0000
+Dostarczaniem poczty do skrzynek poszczególnych u¿ytkowników zajmuj¹ siê programy
+MTA
+MUA
+MDA
+MRA

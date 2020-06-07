@@ -1,0 +1,6 @@
+X1000
+Któr¹ z poni¿szych czynnoœci nale¿y zakwalifikowaæ jako sniffing
+pods³uchiwanie pakietów w sieci
+fa³szowanie pakietów
+uruchomienie du¿ej liczby procesów maj¹cych za zadanie przeci¹¿yæ komputer
+wysy³anie pakietów SYN i ignorowanie odpowiedzi na nie

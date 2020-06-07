@@ -1,0 +1,6 @@
+X0001
+Podejrzewamy o w³amanie do systemu w którym jesteœmy jedynym administratorem. Nasz¹ uwagê zwróci³y nastêpuj¹ce fakty ( pozosta³e wymienione sytuacje jestœmy w stanie wyt³ummaczyæ normalnym dzia³aniem systemu)
+Przyby³o miejsca w katalogu /var/log
+Plik /dev/null ma zerow¹ d³ugoœæ
+W katalogu /etc znaleŸliœmy pliki z dat¹ modyfikacji w przysz³oœci
+Plik /etc/passwd ma datê modyfikacji wskazuj¹c¹ na zmianê w ci¹gu ostatniej doby

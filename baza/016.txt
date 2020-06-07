@@ -1,0 +1,6 @@
+X1000
+Pakiet rozpoczynaj¹cy po³¹czenie w (..) mo¿na rozpoznaæ po tym, ¿e ma:
+ustawion¹ opcjê SYN i skasowan¹ ACK
+ustawuon¹ opcjê PUSH i ACK
+ustawion¹ opcjê ACK i skasowan¹ SYN
+ustawione opcje ACK i SYN

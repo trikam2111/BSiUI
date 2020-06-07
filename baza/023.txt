@@ -1,0 +1,3 @@
+X1
+Co robi chroot?
+Uruchamia œrodowisko ze zmienionym katalogiem g³ównym

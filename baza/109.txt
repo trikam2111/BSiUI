@@ -1,0 +1,6 @@
+X0000
+[img]109.png[/img]
+transfer protoko쿮m FTP w trybie pasywnym
+transfer protoko쿮m HTTP w trybie POST
+transfer protoko쿮m FTP w trybie aktywnym
+transfer protoko쿮m HTTP w trybie GET

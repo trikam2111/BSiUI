@@ -1,0 +1,6 @@
+X1000
+Które z poni¿szych funkcji s¹ podatne na zagro¿enie zwi¹zane z interpretacj¹ znaków specjalnych przy przekazywaniu parametrów?
+system() i popen()
+tylko popen()
+tylko system()
+popen() i exec()

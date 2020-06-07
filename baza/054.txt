@@ -1,0 +1,5 @@
+X100
+Co robi funckcja connect()?
+po³aczenie
+przypisanie adresu do gniazdka
+...

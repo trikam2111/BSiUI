@@ -1,0 +1,6 @@
+X1000
+Podstawowym protoko³em nie jest?
+PGP
+HTTP
+NNTP
+FTP

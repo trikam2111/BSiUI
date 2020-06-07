@@ -1,0 +1,6 @@
+X0010
+W protokole TELNET has³o u¿ytkownika przesy³ane jest
+tekstem niejawnym (zaszyfrowane)
+w postaci tokena z ograniczeniem czasowym
+tekstem jawnym, znak po znaku
+kodem Morse'a

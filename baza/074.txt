@@ -1,0 +1,7 @@
+X0100
+Czego nie mo¿na powiedzieæ o komunikacji w sieciach IP?
+pakiety IP mog¹ byæ ³atwo fa³szowane
+poprawa bezpieczeñstwa za pomoc¹ szyfrowania musi byæ dokonywana w warstwie aplikacji modelu OSI
+warstwa sieciowa IP nie gwarantuje poufnoœci danych
+wiele problemów bezpieczeñstwa nie gwarantuje poufnoœci danych
+wiele problemów bezpieczeñstwa nie mo¿e zostaæ poprawnie nawi¹zanych ze wzglêdu na zasz³oœci historyczne

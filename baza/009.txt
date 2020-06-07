@@ -1,0 +1,6 @@
+X0010
+Wszystkie z poni¿szych funkcji s¹ niebezpoeczne i nie powinny byæ nigdy u¿ywane (szczególnie w programach typu suid) - z wyj¹tkiem jednej. Której?
+gets()
+system()
+open()
+popen()

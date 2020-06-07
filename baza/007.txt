@@ -1,0 +1,6 @@
+X1000
+Aby unikn¹æ problemu wyœcigu podczas tworzenia pliku w katalogu o dostepie publicznbym nale¿y u¿yæ:
+open ("plik", O..CREATIO_EXCLIO_RDWR, 0600)
+fopen("plik" rw)
+creat("plik" 0600)
+open("plik" O_CREATIO_RDWR, 0600)

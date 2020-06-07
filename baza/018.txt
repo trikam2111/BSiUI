@@ -1,0 +1,5 @@
+X001
+Problem w³amañ przed nadpisywanie (..) datagramach mo¿na omin¹æ stosuj¹æ:
+funkcje strcpy() zamiast stracpy()
+sprzêtowe zabezpieczenie segmentu (..) wykonywaniem
+sprzêtowe zabezpieczenie segmentu (..)

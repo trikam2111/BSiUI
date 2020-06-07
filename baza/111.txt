@@ -1,0 +1,6 @@
+X0000
+Na czym bazuj¹ ataki typu Ping of Death?
+sniffingu
+phishingu
+adresach rozg³oszeniowych
+fragmentacji pakietów

@@ -1,0 +1,6 @@
+X1000
+W jakim pliku skojarzone s¹ us³ugi (np SMTP, DHCP) wraz z ich portami
+/etc/services
+/etc/protocoles/
+/etc/xxx
+/etc/xxx

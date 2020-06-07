@@ -1,0 +1,6 @@
+X1000
+Aby wys³aæ pakiet protoko³em ICMP nale¿y wczeœniej utworzyæ gniazdo:
+w trybie surowym
+strumieniowe
+sekwencyjne
+datagramowe

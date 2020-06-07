@@ -1,0 +1,3 @@
+X1
+Z ilu maksymalnie pakietów nie (a w³aœciwie ich czêœci) sk³ada siê Ping of Death:
+2^16 - 1 //to jest ile bajtów, najprawdopodobniej jeden pakiet

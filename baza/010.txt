@@ -1,0 +1,6 @@
+X0010
+O czym nale¿y pamniêtaæ po wykonaniu n=strncpy(p2, p1, MAX)?
+free(p2);
+p2[strlen(p2)+1] = '\0'
+p2[MAX] = '\0'
+p2[strlen(p2)]='\0'

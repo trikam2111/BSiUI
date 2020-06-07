@@ -1,0 +1,3 @@
+X1
+Do czego s³u¿y noexec?
+Pakiet zabezpieczaj¹cy procesy przed wywo³aniem systemowego exec

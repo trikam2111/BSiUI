@@ -1,0 +1,6 @@
+X0100
+Jaka jest kolejnoœæ funkcji przy nawi¹zywaniu po³¹cznia TCP/UDP?
+connect(), bind(), accept()
+connect(), accept(), bind()
+socket(), coœtam(), shutdown()
+socket(), coœtam(), shutdown()

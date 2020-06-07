@@ -1,0 +1,6 @@
+X0001
+Poni¿szy akapit mówi nieprawdê. Aby (..) wystarczy zmieniæ jedno s³owa lub (..) w wierszu?
+Algorytmy kryptografii z kluczem (..)
+Takie jak IDEA, Blowfish czy DES
+Znacznie wolniejsze zabezpieczenie segmentu (..) wtkonywaniem
+Sprzêtowe zabezpieczenie segmentu (..)

@@ -1,0 +1,6 @@
+X1000
+Zaznacz zdanie nieprawid³owe
+UDP zapewnia prawid³ow¹ kolejnoœæ przes³ania danych
+TCP otrzymuje dane ci¹³ym strumieniem a nie komunikatami
+TCP ...
+UDP ...

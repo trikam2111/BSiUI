@@ -1,0 +1,6 @@
+X0001
+Podstawowym protoko³em nie jest?
+FTP
+HTTP
+SMTP
+PGP

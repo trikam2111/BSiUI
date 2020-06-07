@@ -1,0 +1,6 @@
+X0010
+Po czym mozna rozpoznac us³ugê jaka bêdzie wykonana na hoscie jesli mamy pakiet IPv4
+adres Ÿród³owy
+port Ÿród³owy
+port docelowy
+jakies dane segmentowe

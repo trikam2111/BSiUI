@@ -1,0 +1,6 @@
+X0000
+W pliku /etc/ftpusers znajduje siê lista u¿ytkowników systemu:
+dla których dostêp do lokalnego serwera FTP jest zabroniony
+którym wolno korzystaæ z programu ftp
+którym wolno korzystaæ z lokalnego serwera ftpd
+dla których dostêp do lokalnego serwera FTP jest mo¿liwy bez podawania has³a

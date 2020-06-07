@@ -1,0 +1,6 @@
+X0000
+W protokole FTP has³o u¿ytkownika przesy³ane jest:
+kodem Morse'a
+tekstem jawnym
+tekstem niejawnym (zaszyfrowane)
+w postaci tokena z ograniczeniem czasowym

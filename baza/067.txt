@@ -1,0 +1,6 @@
+X0010
+Dany jest pakiet id¹cy z 222.x.1.5 do 224.x.5.1 - jakiego typu to pakiet?
+ICMP
+zwyk³y pakiet pomiêdzy hostami
+multicast
+na adres broadcast

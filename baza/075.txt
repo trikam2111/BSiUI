@@ -1,0 +1,6 @@
+X1000
+zak³adamy, ¿e u234, g456 oznaczaj¹ odpowiednio u¿ytkownika/grupê o takim numerze uid/gid. Proces uruchomiony  zpid=123, uid=404, euid=421, i egid=300 mo¿na przeczytaæ zawartoœæ pliku:
+-r-x--x--x u451 g300 .bashrc
+-rw------- u404 g421 .forward
+-rwx------ u123 g421 .plan
+-rwxr-x--- u123 g421 .cshrc

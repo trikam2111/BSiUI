@@ -1,0 +1,6 @@
+X0100
+Co oznacza, ¿e userzy s¹ zapisani w jakimœ pliku /ftp
+uzywaj¹ ftp bez logowania
+nie maja prawa uzywac ftp
+maja dostep do lokalnego ftp
+nie potrzebuja hasel

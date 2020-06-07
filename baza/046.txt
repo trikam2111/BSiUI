@@ -1,0 +1,6 @@
+X0001
+Który z protoko³ów nie nale¿y do podstawowych?
+HTTP
+SMTP
+FTP
+NFS

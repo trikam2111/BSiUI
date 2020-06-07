@@ -1,0 +1,6 @@
+X0010
+która z przedstawionych masek sieciowych sprawi, ¿e spoœród trzech komputerów o adresach 156.17.40.1, 156.17.40.11, 156.17.40.111 tyko 2 z nich znajd¹ siê w tej samej sieci lokalnej?
+255.255.255.128
+255.255.255.248
+255.255.255.224
+255.255.255.0

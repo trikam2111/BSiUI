@@ -1,0 +1,6 @@
+X1000
+Jeœli plik ma nastêpuj¹ce uprawnienia: -rwx r-s r--, wkazaæ co mo¿e na nim robiæ u¿ytkownik, który nale¿y do tej samej grupy
+czytaæ i wykonywaæ
+czytaæ i wykonywaæ ale bez zapisywania, chyba ¿e jest superbohaterem
+pisac i wykonywaæ
+czytaæ i pisaæ

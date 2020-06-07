@@ -1,0 +1,6 @@
+X0000
+Które zdania dotycz¹ce maskarady adresów jest fa³szywe
+Pozwala na dostêp do internetu komputerom korzystaj¹cym z adresów prywatnych (RFC1918)
+Mo¿e powodowaæ zrywanie ma³o aktywnych po³¹czeñ sieciowych
+Dzia³a w pe³n dla TCP i w ograniczonym zakresie dla UDP
+Pozwala przypisaæ ten sam adres IP kartom sieciowym wielu komputerów znajduj¹cych siê w obrêbie sieci lokalnej

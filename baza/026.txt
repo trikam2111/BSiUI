@@ -1,0 +1,4 @@
+X10
+Jak jest router i maskarada ip i przychodzi pakiet tcp to na jakiej podsawie mo¿na okreœliæ urz¹dzenie docelowe?
+Na podstawie numeru portu.
+Na podstawie adresu MAC

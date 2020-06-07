@@ -1,0 +1,6 @@
+X0001
+Która z wykonywanych czynnoœci jest sniffingiem
+atak DoS
+wysy³anie znaczników SYN ale nie odpowiadanie
+przeci¹¿anie portów serwera
+nas³uchiwanie sieci

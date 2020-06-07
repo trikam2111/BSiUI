@@ -1,0 +1,6 @@
+X0100
+Jesteœmy w³aœcicielem pliku, który znajduje siê w katalogu. Chcemy udostêpniæ plik dla innych u¿ytkowników - jakie prawa nale¿y nadaæ kolejno dla katalogu i pliku?
+700 i 644
+711 i 644
+rwxr--r--
+jakieœ rwx'y z "s" dla group

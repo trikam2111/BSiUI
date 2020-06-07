@@ -1,0 +1,6 @@
+X0000
+Bit praw dostêpu pozwalaj¹cy podczas wykonywania programu na zmianê efektywnego numeru u¿ytkownika to
+bit 04000
+sticky bit
+bit wykonania
+bit 02000

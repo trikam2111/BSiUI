@@ -1,0 +1,6 @@
+X0010
+Dlaczego u¿ywanie klasycznych hase³ nie jest dobrym pomys³em
+Mo¿na je przeczytaæ w /etc/shadow/
+Administrator ma do nich dostêp
+Mo¿na je pods³uchaæ
+Nie ma dobrej metody by coœ z nimi zrobiæ w ramach autoryzacji

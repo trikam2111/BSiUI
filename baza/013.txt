@@ -1,0 +1,6 @@
+X0010
+Który z poni¿szych skrótów nie jest nazw¹ popularnej funkcji skrótu?
+SHA
+MD5
+DES
+MD-2

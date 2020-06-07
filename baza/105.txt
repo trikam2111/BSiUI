@@ -1,0 +1,6 @@
+X0000
+Lista wszystkich u¿ytkowników lokalnego systemu UNIX znajdujê siê w pliku
+/etc/hosts
+/etc/passwd
+/etc/users
+/etc/ftpusers

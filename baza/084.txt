@@ -1,0 +1,6 @@
+X0001
+który z poni¿szych adresów znajduje siê w innej podsieci ni¿ adres 156.17.40.169, je¿eli podsieæ to 255.255.255.128
+156.17.40.225
+156.17.40.254
+156.17.40.199
+156.17.40.111

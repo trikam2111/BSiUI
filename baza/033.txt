@@ -1,0 +1,3 @@
+X1
+Pytanie na jakich gniazdkach bêd¹ dzia³a³y operacje read() i write()
+socket strumieniowy

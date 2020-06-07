@@ -1,0 +1,6 @@
+X0001
+Jesteœmy zalogowani jako zwyk³y user u chcemy zestawiæ nowe po³aczenie/gniazdko/whatever na porcie 22x. Jaka funkcja wywali nam error
+accept()
+connect()
+socket()
+bind()

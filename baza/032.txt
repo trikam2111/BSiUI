@@ -1,0 +1,6 @@
+X0100
+Na co trzeba zwracaæ uwagi przy serwerach DNS?
+poofing
+sniffing
+to ze mozna wyslac uzytkownikowi inne dane
+utrzymaniem redundantnych serwerów

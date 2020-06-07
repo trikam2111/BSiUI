@@ -1,0 +1,6 @@
+X0100
+Instalacja pakietu tcp.wrapper polega na modyfikacji plików konfiguracyjnych demona
+identd
+inetd
+indent
+telnetd

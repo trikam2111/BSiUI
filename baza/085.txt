@@ -1,0 +1,6 @@
+X0100
+pakiet z ustawionymi opcjami SYN i ACK jest
+pakietem wysy³anym przez klienta w celu nawi¹zania po³¹czenia TCP
+drugim z pakietów przesy³anych pomiêdzy klientem a serweram w celu nawi¹zania po³¹czenia TCP
+pakietem synchronizuj¹cym klienta z serwerem w komunikacji UDP
+pakietem wysy³anym przez klienta w celu potwierdzenia nawi¹zania po³¹czenia TCP

@@ -1,0 +1,6 @@
+X0010
+Dostarczaniem poczty do zdalnych systemów przy u¿yciu protoko³u SMTP zajmuj¹ siê programy:
+MDA
+MUA
+MTA
+MRA

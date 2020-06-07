@@ -1,0 +1,3 @@
+X1
+W której warstwie znajduje siê SSL?
+5. warstwa modelu ISO/OSI (sesji)

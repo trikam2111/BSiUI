@@ -1,0 +1,5 @@
+X100
+Pisanie w jakim jêzyku WWW jest najbardziej nara¿one na ataki?
+Javascript
+PHP dla CGi
+Server-side-includes

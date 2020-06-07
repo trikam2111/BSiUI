@@ -1,0 +1,6 @@
+X0010
+Numer IP, którego zawsze mo¿na u¿yc do testowania po³¹czenia klient-serwer:
+0.0.0.0
+1.1.1.1
+10.0.0.1
+157.x.x.x

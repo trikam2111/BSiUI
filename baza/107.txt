@@ -1,0 +1,6 @@
+X0000
+Który z poni¿szych demonów nie jest potrzebny do dzia³ania us³ugi NFS?
+inetd
+mountd
+nfsd
+portmap

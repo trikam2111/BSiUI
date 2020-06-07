@@ -1,0 +1,6 @@
+X0000
+Zadaniem protoko³u IDENT jest:
+t³umaczenie numerów us³ug na ich nazwy
+autoryzacja dostêpu do wiêkszoœci us³ug sieciowych
+identyfikowanie potencjalne niebezpiecznych po³¹czeñ i informowanie o nich serwerów
+pomoc w identyfikacji u¿ytkowników inicjuj¹cych po³¹czenia IP

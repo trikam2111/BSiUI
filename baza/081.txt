@@ -1,0 +1,6 @@
+X1000
+w katalogu domowym u¿ytkownik znajduje siê plik .plan, którego zawartoœæ ma byæ dostêpna dla wszystkich, jednak nie chcemy, by ktokolwiek oprócz w³aœciciela przegl¹da³ zawartoœæ jego katalogu domowego. prawa dostêpu do katalogu i pliku powinny byæ ustawione odpowiednio na
+0711 i 0644
+0700 i 0644
+drwx------ i -rw-r-----
+drwxr-x--- i -r--r--r--

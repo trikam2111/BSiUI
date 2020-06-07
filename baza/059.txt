@@ -1,0 +1,5 @@
+X100
+Ile potrzeba ataków death ping aby by³o skuteczne?
+1
+2
+5

@@ -1,0 +1,6 @@
+X0001
+proces dzia³aj¹cy z uprawnieniami zwyk³ego u¿ytkownika, który chce wykorzystaæ do komunikacji z drug¹ stron¹ port numer 257 spowoduje wyst¹pienie b³edu w funkcji
+accept()
+connect()
+socket()
+bind()

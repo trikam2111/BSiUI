@@ -1,0 +1,6 @@
+X0010
+Dane trzy adresy sieciowe: 156.x.x14, 156.x.x.41, 156.x.x.141 nalezy wybraæ maskê sieciow¹ tak, aby w jednej sieci znalaz³y siê tylko dwie z nich
+255.255.255.0
+255.255.255.64
+255.255.255.192
+255.255.255.22x

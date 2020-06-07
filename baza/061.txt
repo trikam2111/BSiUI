@@ -1,0 +1,6 @@
+X0001
+Na jakim porcie dzia³a telnet
+123
+112
+16
+23

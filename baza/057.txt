@@ -1,0 +1,4 @@
+X10
+Jak przesy³ane s¹ has³a w FTP?
+jawnym tekstem
+niejawnym tekstem(zaszyfrowane)

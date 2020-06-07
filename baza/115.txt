@@ -1,0 +1,6 @@
+X0000
+Co nale¿y zablokowaæ na wszystkich routerach, by uniemo¿liwiæ lub ograniczyæ zasiêg ataków SMURF
+forwardowanie pakietów ICMP
+broadcasty UDP
+forwardowanie pakietów ARP
+forwardowanie pakietów na adresy rozg³oszeniowe

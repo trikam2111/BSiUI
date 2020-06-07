@@ -1,0 +1,6 @@
+X0100
+Komputer korzystaj¹cy z systemu S/KEY ma w pliky hase³ dla danego u¿ytkownika zapisane has³o numer 46. U¿ytkownik zostanie przy próbie logowanie zapytany o has³o numer:
+0
+45
+46
+47

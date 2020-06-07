@@ -1,0 +1,6 @@
+X0001
+Którym z poni¿szych plików mo¿na skojarzyæ numery portów z nazwami protoko³ów sieciowych takich jak SMTP czy DHCP?
+/etc/mime.types
+/etc/protocols
+/etc/netconf
+/etc/services

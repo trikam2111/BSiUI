@@ -1,0 +1,6 @@
+X0001
+Program rloginf nie jest bezpieczny, gdy¿ przy logowaniu:
+u¿ywa metod szyfrowania uznanych za s³abe
+nie mo¿na w nim zablokowaæ dostêpu dla u¿ytkownika root
+za pomoc¹ opcji DEBUG mo¿na go zmusiæ do zdalnego wykonania dowolnej komendy
+pozwala wejœæ bez has³a na podstawie pliku .rhosts i danych podawanych przez klienta

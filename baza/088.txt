@@ -1,0 +1,6 @@
+X1000
+którego z poni¿szych adresów mo¿na zawsze u¿yæ w celu testowania dzia³ania po³¹czeñ w programach typu klient-serwer
+10.0.0.1
+0.0.0.0
+156.17.255.255
+1.1.1.1

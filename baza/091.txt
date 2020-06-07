@@ -1,0 +1,6 @@
+X0000
+Która z poni¿szych funkcji nie korzysta z serwisu DNS?
+gethostbyname_r()
+gethostbyaddr()?
+gethostent()
+bind()

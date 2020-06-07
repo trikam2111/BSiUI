@@ -1,0 +1,6 @@
+X1000
+Która z poni¿szych cech sama w sobie nie jest s³aboœci¹/wad¹ ryptogradicznej funkcji skrótu?
+Wynik funkcji jest liczb¹ 16-bitow¹
+Zmiana pojedynczego bitu w danych zmienia z regu³y 1-2 bity w danych
+Ró¿ne dane wejœciowe mog¹ dawaæ (..) wyjœciowy
+Te same dane wejœciowe mog¹ dawaæ (..) wynikowe

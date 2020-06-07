@@ -1,0 +1,6 @@
+X0010
+Wad¹ systemu SecurID jest
+korzystanie tylko z jednej metody mocnego uwierzytelnienia
+mo¿liwoœæ pods³uchania has³a podczas jego wprowadzania
+d³ugi czas wymagany w celu zalogowania siê do kilku systemów
+koniecznoœæ radiowej synchronizacjji zegarów tokena i systemu

@@ -1,0 +1,4 @@
+X01
+PGP nie potrafi:
+podpisaæ siê pod kluczem cyfrowym innej osoby
+nawi¹zaæ kana³u szyfruj¹cego

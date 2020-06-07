@@ -1,0 +1,6 @@
+X0000
+Który z poni¿szych problemów nie jest typowym problemem bezpieczeñstwa serwerów poczty elektroniczej?
+Wra¿liwoœæ na ataki typu DoS poprzez wysy³anie poczty na adresy, dla których DNS nie dzia³a poprawnie.
+Domyœlna konfiguracja typu "open relay"
+Wra¿liwoœæ oprogramowania na wirusy przesy³ane w za³¹cznikach
+Brak autoryzacji przy wysy³aniu listó przez klientów 

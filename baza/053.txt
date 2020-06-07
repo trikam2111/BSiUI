@@ -1,0 +1,6 @@
+X1000
+Która funkcja nie korzysta z DNS?
+bind()
+getHostByName()
+getGostAddr()
+getHosten

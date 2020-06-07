@@ -1,0 +1,6 @@
+X0100
+Router z ustawion¹ maskarad¹ otrzyma³ pakiet do przekazania na podstawie jakich cech pakietu IPv4 przeœle go dalej:
+na podstawie wy³¹cznie adresu docelowego
+na podstawie adresu i portu docelowego
+na podstawie adresu Ÿród³owego
+na podstawie adresu docelowego i Ÿród³owego

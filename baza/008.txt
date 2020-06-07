@@ -1,0 +1,6 @@
+X0001
+Dysponujemy kompuuterem potrafi¹cym wykonaæ 10^13 operacji MD5 na sekundê. Znamy has³o systemy S/KEY numer 42. Ile czasu zabierze nam wygenerowanie has³a numer 40?
+poni¿ej sekundy
+tydzieñ
+10^4 lat
+wiêcej ni¿ wiek wszechœwiata

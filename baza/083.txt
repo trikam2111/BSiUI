@@ -1,0 +1,6 @@
+X1000
+noexec to opcja pomagaj¹ca zabezpieczyæ:
+klienta NFS przed atakami poprzez dysk serwera
+serwer SMTP przed przekazaniem wirusów klientom
+serwer NFS przed atakami ze strony klienta
+klienta SMTP przed uruchomieniem wirusów pocztowych

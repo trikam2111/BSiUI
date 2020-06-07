@@ -1,0 +1,6 @@
+X0010
+Standardowa d³ugoœæ maski w klasie C
+8
+16
+24
+27

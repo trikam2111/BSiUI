@@ -1,0 +1,6 @@
+X1000
+Podany adres MAC, która warstwa OSI jest odpowiedzialna za jego tumaczenie?
+2
+4
+7
+8

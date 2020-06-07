@@ -1,0 +1,6 @@
+X0000
+Standardowe sprawdzenie has³a przez system UNIX polega na:
+odszyfrowaniu wersji przechowywanej w systemie i porównaniu wyniku z has³em podanym przez u¿ytkownika
+wylosowaniu kodu autoryzacji i sprawdzeniu, czy odpowiada on danym podanym przez u¿ytkownika
+zaszyfrowaniu has³a podanego przez u¿ytkownika i porównaniu otrzymanego wyniku z wersj¹ trzyman¹ w systemie
+porównaniu podanego has³a z jego jawn¹ wersj¹przechowywan¹ w systemie

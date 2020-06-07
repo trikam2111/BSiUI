@@ -1,0 +1,6 @@
+X1000
+Prawid≥owa odpowiedü zapytania Exxx
+serwer odpowiada 2xx
+serwer odpowiada 3xx
+serwer odpowiada 4xx
+serwer odpowiada 5xx

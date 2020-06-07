@@ -1,0 +1,6 @@
+X0010
+list e-mail o treœci “aby uaktywniæ konto BZWBK 24, nale¿y klikn¹æ poni¿sze ³¹cze i wprowadziæ numer karty na wyœwietlonej stronie w celu potwierdzenia BZWBK 24” mo¿emy zakwalifikowaæ jako atak typu
+smurf
+DoS
+phishing
+sniffing

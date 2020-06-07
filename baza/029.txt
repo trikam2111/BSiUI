@@ -1,0 +1,5 @@
+X001
+Szyfrowanie symetryczne asymetryczne, najpierw ustala siê kana³ a póŸniej wykorzystuje siê:
+klucz publiczny nadawcy
+klucz publicznny odbiorcy
+tymczasowy klucz sesji

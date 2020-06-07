@@ -1,0 +1,6 @@
+X0000
+Przy prawach dostêpu do pliku widocznych jako -rwxr-sr-- 1024 Jun 9 17:27 wilq u¿ytkownik nale¿acy do tej samej grupy co plik, ma prawo:
+do czytania i pisania pliku
+do czytania i wykonania pliku
+czytania, pisania i wykonania
+czytania i wykonania, ale bez zapisu, pod warunkiem ¿e jest superu¿ytkownikiem

@@ -1,0 +1,3 @@
+X1
+Co nie stanowi zagro¿enia dla rlogin
+DoS

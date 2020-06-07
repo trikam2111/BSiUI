@@ -1,0 +1,6 @@
+X0000
+Najpopularniejszy serwer DNS to program:
+pop3d
+bind
+dnsd
+host

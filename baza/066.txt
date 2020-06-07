@@ -1,0 +1,6 @@
+X1000
+Do czego u¿ywana jest technka "slide-mapping"
+Do czegoœ w TCP
+do czegoœ w UDP
+do czegoœ w TTL
+Do czegoœ tam jeszcze

@@ -1,0 +1,6 @@
+X0001
+Najpopularniejszy serwer DNS?
+dns1
+pop3d
+host
+bind

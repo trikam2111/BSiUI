@@ -1,0 +1,5 @@
+X100
+Jak przesy³ane s¹ has³a w TELNET?
+jawnie tekstem
+niejawnie (zaszyfrowane)
+.....
