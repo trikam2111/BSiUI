@@ -2,4 +2,4 @@ X100
 Dane biometryczne
 mog¹ byæ mocnym sposobem uwierzytelniania wraz z inn¹ metod¹ np pinem
 mog¹ byæ mocnym sposobem uwierzytelniania wraz z dwiema innymi metodami
-mog¹ pos³u¿yæ hako coœ do generacji funkcji skrótowej
+mog¹ pos³u¿yæ jako coœ do generacji funkcji skrótowej

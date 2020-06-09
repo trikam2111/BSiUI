@@ -3,4 +3,4 @@ Pytanie dodatkowe: Sk¹d (kraj, miasto) logowa³ siê haker opisany w ksi¹¿ce "Kuku
 USA, Cupertino stan: California
 USA, Mclean stan: Virginia
 Niemcy, Bremen
-Niemxy, Hanover
+Niemcy, Hanover
