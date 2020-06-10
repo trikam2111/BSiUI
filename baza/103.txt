@@ -1,4 +1,4 @@
-X0001
+X0100
 Czego nie mo¿na powiedzieæ o komunikacji w sieciach IP?
 Pakiety IP mog¹ byæ ³atwo fa³szowane.
 Poprawa bezpieczeñstwa za pomoc¹ szyfrowania musi byæ dokonywana w warstwie aplikacji modelu OSI.
